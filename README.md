@@ -17,4 +17,15 @@ Kumpulan link yang sering saya gunakan atau ingin saya simpan:
 - [Belajar CTF](https://overthewire.org/wargames/)  
 - [Real-world offensive & defensive cyber-security training](https://tryhackme.com/)  
 - [Hackthebox](https://www.hackthebox.com/)
-- [Portswigger](https://portswigger.net/)
+- [Portswigger](https://portswigger.net/)  
+
+
+Web vuln khusus untuk belajar
+- http://www.itsecgames.com/  
+- https://owasp.org/www-project-webgoat/  
+- [Owasp bricks](https://sechow.com/bricks/)  
+- https://www.root-me.org/  
+- https://github.com/TCP1P/TCP1P_CTF_writeup
+- [Blue team](https://cyberdefenders.org/)  
+- [Blockchain CTF](https://casinoheist.xyz/)  
+- https://vulnerable.codes/  

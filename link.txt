@@ -1,0 +1,153 @@
+Link Bermanfaat
+Learning Source
+Material
+learn.snyk // Learn teaches developers how to stay secure
+PYTHON FOR HACKERS PT.1 // Python for hacking
+reconshell.com // Hacking blog and tutorial
+begin.re // Reverse Engineer For Beginer
+YT Assembly Course // Assembly Youtube Course
+z3py tutorial // Tutorial how to use Z3py
+security.googleblog // google blog about security
+Linux System Call Table // Linux System Call Table
+w3schools.in/cyber-security // Cyber security tutorial
+w3schools.in/ethical-hacking // Ethical hacking tutorial
+cryptohack // A fun, free platform for learning modern cryptography
+prompt.ml // XSS challenge
+taggartinstitute // Free course cyber security
+linuxjourney // linux learning resource
+ethernout // smartcontract learning resource
+paper.seebug // chinese security blog
+Mobule Hacking Lab // Mobile Exploitation course
+book.jorianwoltjer // CTF trick Book
+Coding Platform
+codedex
+codewars
+codingame
+Best Legal Vulnerable Web Application for Learning Hacking.
+Offline
+bWAPP
+DVWA
+OWASP WebGoat
+cyclone transfers
+Owasp Bricks
+DamnVulnerableNug
+VulnHub
+InsecureShop // android vulnerable app
+OversecuredAndroidApp // android vulnerable app
+InsecureBankV2 // android vulnerable app
+OversecuredAndroidApp Writeup // oversecureAndroidApp writeup
+Online
+OverTheWire // CTF like platform to learn hacking
+PortSwigger // Web Security
+TryHackMe // Vulnerable VM box
+HackTheBox // Vulnerable VM box
+CTF Platform
+PicoCTF
+CTFLearn
+CTF.HackTheBox
+Google CTF
+CTFR
+pwn101 // pwn challenge for beginer
+pwnable.kr // pwn challenge platform
+pwnable.tw //pwn challenge platform
+cyberdefenders // blue team/forensic ctf platform
+casinoheist // blockchain ctf
+ethernaut // blockchain ctf
+vulnerable.code // Learn to research vulnerabilities by reviewing the source code of real-world cases.
+Writeup Related
+0xdf writeup // 0xdf comunity writeup
+alexbieber/Bug_Bounty_writeups // bug bounty writeup list
+TCP1P CTF Writeup // writeup dari komunitas TCP1P bahasa Indonesia
+Group link
+Facebook
+Linux Indonesia // forum berdiskusi/bertanya tentang linux
+Telegram
+MalingIT // berbagi buku pentesting/hacking
+imanons// berbagi vidio belajar pentesting/hacking
+IT Networking // diskusi networking
+CTF BERSAMA // diskusi dan berbagi informasi tentang CTF
+Kriptografiid // diskusi tentang Kriptografi
+ForensicID // diskusi tentang Forensic
+ReversingID // diskusi tentang Reverse Engineering
+Orang Siber Indonesia // diskusi IT
+theninjaway1337 // berbagi sumber belajar pentesting/hacking
+hacktheboxindo // komunitas HackTheBox Indonesia
+TCP1P // komunitas CTF / bermain ctf bersama
+Channel Youtube Menarik
+Bahasa Inggris
+Live Overflow //cyber security researcher
+John Hammond //ethical hacker
+David Bombal //networking specialist
+Ippsec //HTB player and contributor
+Network Chunk //networking specialist
+Pwn Function //ethical hacker
+Computerphile //computer science
+Almond Force //CTF player
+LowLevelLearning //Lowlevel programer (e.g. asm, baremetal programing)
+Loi Liang Yang //Ethical hacker
+Bahasa Indonesia
+Onno Center //dosen IT network dan cyber security
+CyberSecurityIPB // Security researcher team IPBCyberSecurityIPB
+savebeat //etchical hacker / red team
+CTF ID //ctf player
+Writeup CTF // HackTheBox wallthrought
+Semi Yulianto //Blue team / defensive security
+Doddy Ferdiansyah //etchical hacker
+lowanwsec // cyber security enthusiast
+PT Teknologi Server Indonesia // ethical hacker
+Kelas Terbuka //dosen IT programing (e.g. python)
+Web Programing UNPAS //dosen IT web programing
+Awesome Github Repos
+Ignitetechnologies/Mindmap // mindmaps for cyber security technologies, methodologies, courses, and certifications
+tomnomnom/hacks // A collection of hacks and one-off scripts
+sbilly/awesome-security // A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+rezaduty/cybersecurity-career-path // Cyber security career path
+swisskyrepo/PayloadsAllTheThings // A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+w181496/Web-CTF-Cheatsheet // Web CTF CheatSheet
+0x4D31/awesome-oscp // A curated list of awesome OSCP resources
+tanc7/hacking-books // a collection of pdfs related to hacking
+bcoles/kernel-exploits // kernel exploit list
+danielmiessler/SecLists //collection of multiple types of lists used during security assessments
+JoyGhoshs/findbb/ // Check if domain has bug bounty program or not
+0xSojalSec/read-dark-web // dark web articel
+Nuclei // vulnerability scanning based on templates
+Yara // malware patern matching
+libc-database // libc database searcing for binary exploitation
+PCRT // png fixer
+dns-rebind-toolkit // A front-end JavaScript toolkit for creating DNS rebinding attacks.
+InsecureShop // Insecure Mobile Application for exercise
+Tools
+Operating System
+Parrot OS
+Black Arch
+Kali Linux
+Online tools
+CyberChef // strings converter
+dnsdumpster // dns recoon
+dcode.fr // chiper identifier
+revshells.com // reverse shell generator
+shell-storm/shellcode // shellcode collection for pwn
+godbolt // compiler explorer
+dogbolt // decompiler explorer
+libc.nullbyte.cat // libc database for pwn
+aperisolve // performs layer analysis on image
+xsshunter.trufflesecurity // new xss hunter
+graphql-voyager // graphql schema mapping
+hybrid-analysis // malware analysis tool
+interactsh // An OOB interaction gathering server and client library
+pingb.in // A Simple DNS OOB exfil solution, or pingb.in (life)hack
+whonow // A “malicious” DNS server for executing DNS Rebinding attacks on the fly
+Search tools
+hacktricks.xyz // hacking trick / searching common exploit
+gtfobins // list Unix binary for privilage escalation
+ippsec.rocks // search video for related topics and hack tricks, source youtube channel ippsec
+Advangle // search engine query maker
+sourcegraph.com // Great code search helps you
+searchcode.com // Search 75 billion lines of code from 40 million projects
+grep.app // git repos search
+cs.github // github repos search
+offsec.tools // security tools list
+fofa // search engine like shodan
+Other interesting link
+beta.character.ai // character ai
+ggc-discrete-math // math discrete with python
