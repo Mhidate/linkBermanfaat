@@ -1,15 +1,20 @@
-# linkBermanfaat
-- tambahkan dua spasi di akhir kata untuk membuat baris baru  
+# 📚 Link Bermanfaat
+
+Kumpulan link yang sering saya gunakan atau ingin saya simpan:
+# Campuran
 - quickref.me  
 - roadmap.sh  
 - https://cssgridgenerator.io/  
 - https://sqlpd.com/  
 - https://visualgo.net/id  
-- https://overthewire.org/wargames/
+- https://css-tricks.com/
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions  
-- https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - kodular.io  
-- https://tryhackme.com/  
+- https://caniuse.com/
+- https://devdocs.io/
 
 # CyberSecurity
-
+- [Belajar CTF](https://overthewire.org/wargames/)  
+- [Real-world offensive & defensive cyber-security training](https://tryhackme.com/)  
+- [Ada materi berbayar](https://www.hackthebox.com/)
+- [Ada materi berbayar](https://portswigger.net/)
