@@ -18,9 +18,6 @@ Kumpulan link yang sering saya gunakan atau ingin saya simpan:
 - [Real-world offensive & defensive cyber-security training](https://tryhackme.com/)  
 - [Hackthebox](https://www.hackthebox.com/)
 - [Portswigger](https://portswigger.net/)  
-
-
-Web vuln khusus untuk belajar
 - http://www.itsecgames.com/  
 - https://owasp.org/www-project-webgoat/  
 - [Owasp bricks](https://sechow.com/bricks/)  
