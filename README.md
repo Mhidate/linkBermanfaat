@@ -16,5 +16,5 @@ Kumpulan link yang sering saya gunakan atau ingin saya simpan:
 # CyberSecurity
 - [Belajar CTF](https://overthewire.org/wargames/)  
 - [Real-world offensive & defensive cyber-security training](https://tryhackme.com/)  
-- [Ada materi berbayar](https://www.hackthebox.com/)
-- [Ada materi berbayar](https://portswigger.net/)
+- [Hackthebox](https://www.hackthebox.com/)
+- [Portswigger](https://portswigger.net/)
