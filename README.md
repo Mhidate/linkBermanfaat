@@ -27,3 +27,4 @@ Kumpulan link yang sering saya gunakan atau ingin saya simpan:
 - [Blockchain CTF](https://casinoheist.xyz/)  
 - https://vulnerable.codes/  
 - https://www.hacker101.com/  
+- https://www.apisecuniversity.com/  
