@@ -12,7 +12,7 @@ Kumpulan link yang sering saya gunakan atau ingin saya simpan:
 - kodular.io  
 - https://caniuse.com/
 - https://devdocs.io/
-
+- https://flexboxlabs.netlify.app/
 # CyberSecurity
 - [Belajar CTF](https://overthewire.org/wargames/)  
 - [Real-world offensive & defensive cyber-security training](https://tryhackme.com/)  
